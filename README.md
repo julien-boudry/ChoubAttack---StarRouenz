@@ -1,4 +1,4 @@
-Star-Rouenz---Game_API
+Star-Rouenz---Choub'Attack_API
 ======================
 
-API use by star-rouenz.fr/choub-attack/ game for ranking, stats and many things.
+API use by www.star-rouenz.fr/choub-attack/ game for ranking, stats and many things.
